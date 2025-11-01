@@ -11,6 +11,11 @@ FILTER_URLS = [
     ("AWAvenue-Ads-Rule", "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"),
     ("Adblockdns", "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt"),
     ("Adguardfilters", "https://filters.adtidy.org/dns/filter_1.txt"),
+    ("adguardteama", "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt"),
+    ("adguardteamb", "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt"),
+    ("Cats-Team", "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt"),
+    ("neodevpro", "https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker"),
+    ("PaPerseller", "https://raw.githubusercontent.com/PaPerseller/comads/main/httpdns-cn.txt"),
 ]
 
 OUTPUT_FILE = "merged_rules.txt"
