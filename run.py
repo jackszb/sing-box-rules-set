@@ -11,6 +11,7 @@ FILTER_URLS = [
     ("AWAvenue-Ads-Rule", "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"),
     ("Adblockdns", "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/AdGuard_DNS_filter.txt"),
     ("Adguardfilters", "https://filters.adtidy.org/dns/filter_1.txt"),
+    ("adguardteam", "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"),
 ]
 
 OUTPUT_FILE = "merged_rules.txt"
