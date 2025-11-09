@@ -8,10 +8,8 @@ import re
 FILTER_URLS = [
     ("AdGuard", "https://raw.githubusercontent.com/ppfeufer/adguard-filter-list/master/blocklist"),
     ("MyAdList", "https://raw.githubusercontent.com/jackszb/MyAdList/main/dnsblock.txt"),
-    ("AWAvenue-Ads-Rule", "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"),
-    ("Adblockdns", "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/AdGuard_DNS_filter.txt"),
-    ("Adguardfilters", "https://filters.adtidy.org/dns/filter_1.txt"),
-    ("adguardteam", "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"),
+    ("Adblockdns", "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt"),
+    ("Comads", "https://raw.githubusercontent.com/jackszb/comads/main/comads.txt"),
 ]
 
 OUTPUT_FILE = "merged_rules.txt"
