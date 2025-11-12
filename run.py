@@ -6,12 +6,7 @@ import re
 # 下载规则列表
 # -----------------------
 FILTER_URLS = [
-    ("AdGuard", "https://raw.githubusercontent.com/ppfeufer/adguard-filter-list/master/blocklist"),
-    ("MyAdList", "https://raw.githubusercontent.com/jackszb/MyAdList/main/dnsblock.txt"),
-    ("Adblockdns", "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt"),
-    ("Comads", "https://raw.githubusercontent.com/jackszb/comads/main/comads.txt"),
     ("compiler", "https://raw.githubusercontent.com/jackszb/adblock-filter-compiler/main/blocklist.txt"),
-    ("noai", "https://raw.githubusercontent.com/jackszb/noai/main/noai_hosts.txt"),
 ]
 
 OUTPUT_FILE = "merged_rules.txt"
