@@ -11,6 +11,7 @@ FILTER_URLS = [
     ("Adblockdns", "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt"),
     ("Comads", "https://raw.githubusercontent.com/jackszb/comads/main/comads.txt"),
     ("compiler", "https://raw.githubusercontent.com/jackszb/adblock-filter-compiler/main/blocklist.txt"),
+    ("noai", "https://raw.githubusercontent.com/jackszb/noai/main/noai_hosts.txt"),
 ]
 
 OUTPUT_FILE = "merged_rules.txt"
