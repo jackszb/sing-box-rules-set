@@ -10,6 +10,7 @@ FILTER_URLS = [
     ("MyAdList", "https://raw.githubusercontent.com/jackszb/MyAdList/main/dnsblock.txt"),
     ("Adblockdns", "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt"),
     ("Comads", "https://raw.githubusercontent.com/jackszb/comads/main/comads.txt"),
+    ("compiler", "https://raw.githubusercontent.com/jackszb/adblock-filter-compiler/main/blocklist.txt"),
 ]
 
 OUTPUT_FILE = "merged_rules.txt"
