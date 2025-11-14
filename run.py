@@ -8,6 +8,7 @@ import re
 FILTER_URLS = [
     ("compiler", "https://raw.githubusercontent.com/jackszb/adblock-filter-compiler/main/blocklist.txt"),
     ("noai", "https://raw.githubusercontent.com/jackszb/noai/main/noai_hosts.txt"),
+    ("dnssblock", "https://raw.githubusercontent.com/flinteger/dnss-blocklists/release/blocklists/ad.hosts"),
 ]
 
 OUTPUT_FILE = "merged_rules.txt"
