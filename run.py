@@ -10,6 +10,7 @@ FILTER_URLS = [
     ("noai", "https://raw.githubusercontent.com/jackszb/noai/main/noai_hosts.txt"),
     ("dnssblock", "https://raw.githubusercontent.com/flinteger/dnss-blocklists/release/blocklists/ad.hosts"),
     ("merged_hosts", "https://raw.githubusercontent.com/ripDZL/Adlist/main/merged_hosts.txt"),
+    ("tiktok_hosts", "https://raw.githubusercontent.com/M4jx/TikTokBlockList/main/hosts"),
 ]
 
 OUTPUT_FILE = "merged_rules.txt"
