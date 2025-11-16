@@ -10,7 +10,7 @@ FILTER_URLS = [
     ("ppfeufer", "https://raw.githubusercontent.com/ppfeufer/adguard-filter-list/master/blocklist"),
     ("myadlist", "https://raw.githubusercontent.com/jackszb/MyAdList/main/dnsblock.txt"),
     ("217heidai", "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt"),
-    ("adguard", "https://filters.adtidy.org/dns/filter_1.txt"),
+    ("ascopes", "https://ascopes.github.io/dns-blocklist/blocklist.txt"),
 ]
 
 OUTPUT_FILE = "merged_rules.txt"
