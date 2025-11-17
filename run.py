@@ -12,6 +12,7 @@ FILTER_URLS = [
     ("217heidai", "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt"),
     ("ascopes", "https://ascopes.github.io/dns-blocklist/blocklist.txt"),
     ("mullvad", "https://raw.githubusercontent.com/cogwheel0/mullvad-to-adguard/main/adguard/all/adblock.txt"),
+    ("dns-blocklist", "https://raw.githubusercontent.com/jackszb/dns-blocklist/master/merged-dns-blocklist.txt"),
 ]
 
 OUTPUT_FILE = "merged_rules.txt"
