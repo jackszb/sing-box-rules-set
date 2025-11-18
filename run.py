@@ -9,8 +9,6 @@ FILTER_URLS = [
     ("comads", "https://raw.githubusercontent.com/jackszb/comads/main/comads.txt"),
     ("ppfeufer", "https://raw.githubusercontent.com/ppfeufer/adguard-filter-list/master/blocklist"),
     ("myadlist", "https://raw.githubusercontent.com/jackszb/MyAdList/main/dnsblock.txt"),
-    ("217heidai", "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt"),
-    ("mullvad", "https://raw.githubusercontent.com/cogwheel0/mullvad-to-adguard/main/adguard/all/adblock.txt"),
 ]
 
 OUTPUT_FILE = "merged_rules.txt"
