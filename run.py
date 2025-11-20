@@ -11,6 +11,7 @@ FILTER_URLS = [
     ("myadlist", "https://raw.githubusercontent.com/jackszb/MyAdList/main/dnsblock.txt"),
     ("217heidai", "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt"),
     ("sukka", "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/Internal/reject-adguardhome.txt"),
+    ("adguard", "https://raw.githubusercontent.com/Menghuibanxian/AdguardHome/main/Black.txt"),
 ]
 
 OUTPUT_FILE = "merged_rules.txt"
